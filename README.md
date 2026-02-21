@@ -27,7 +27,6 @@ The objective was to move beyond descriptive reporting and assess structural rev
 - Session ranking to evaluate revenue concentration (Top X% contribution)
 - Traffic vs conversion decomposition to identify growth drivers
 - Device-level performance comparison
-- Validation and exploration in Python
 - Executive dashboards built in Tableau
 
 ---
