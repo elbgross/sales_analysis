@@ -44,4 +44,5 @@ The objective was to move beyond descriptive reporting and assess structural rev
 ## Relevance
 
 This project reflects real-world commercial analytics challenges in digital businesses, where understanding revenue stability, dependency risk, and performance drivers is critical for strategic decision-making.
-**Presentation link:** 
+
+**Presentation link:** [https://pitch.com/v/revenue-dynamics-market-stability-analysis-ixzpc3]
